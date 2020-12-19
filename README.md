@@ -1,2 +1,2 @@
-# StreetLightsProject20
-Street light colours
+# p5.play-boilerplate
+Boiler plate for p5.play
